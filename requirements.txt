@@ -11,7 +11,7 @@ django-filter==2.1.0
 django-optimized-image==0.1.0
 django-phonenumber-field==2.1.0
 django-rest-auth==0.9.3
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 drfapikey==0.0.3
 idna==2.8
 isort==4.3.4
